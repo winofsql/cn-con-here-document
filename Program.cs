@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace cs_0915_1
+namespace cs_con_here_document
 {
     class Program
     {
